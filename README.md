@@ -2,7 +2,7 @@
 
 # url_alive_scan
 
-一个简单的多协程批量对url存活进行检测，并发数根据cpu决定
+一个简单的多协程批量对url存活进行检测，并发数默认根据cpu决定
 
 ```
 Usage of ./main:
@@ -14,4 +14,4 @@ Usage of ./main:
 
 example:
 
-![1](.\picture\1.jpg)
+![1](./picture/1.jpg)
